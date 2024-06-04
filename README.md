@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McIntyre456
-- 👀 I’m interested in security 
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects to help me build my skills
 - 📫 How to reach me ... message me 
